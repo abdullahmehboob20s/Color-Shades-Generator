@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Color-Shades-Generator/static/css/main.e8e0fb44.chunk.css",
+    "main.js": "/Color-Shades-Generator/static/js/main.5638c1e8.chunk.js",
+    "main.js.map": "/Color-Shades-Generator/static/js/main.5638c1e8.chunk.js.map",
+    "runtime-main.js": "/Color-Shades-Generator/static/js/runtime-main.a4c92d66.js",
+    "runtime-main.js.map": "/Color-Shades-Generator/static/js/runtime-main.a4c92d66.js.map",
+    "static/js/2.bdd9080d.chunk.js": "/Color-Shades-Generator/static/js/2.bdd9080d.chunk.js",
+    "static/js/2.bdd9080d.chunk.js.map": "/Color-Shades-Generator/static/js/2.bdd9080d.chunk.js.map",
+    "static/js/3.c10d120f.chunk.js": "/Color-Shades-Generator/static/js/3.c10d120f.chunk.js",
+    "static/js/3.c10d120f.chunk.js.map": "/Color-Shades-Generator/static/js/3.c10d120f.chunk.js.map",
+    "index.html": "/Color-Shades-Generator/index.html",
+    "static/css/main.e8e0fb44.chunk.css.map": "/Color-Shades-Generator/static/css/main.e8e0fb44.chunk.css.map",
+    "static/js/2.bdd9080d.chunk.js.LICENSE.txt": "/Color-Shades-Generator/static/js/2.bdd9080d.chunk.js.LICENSE.txt",
+    "static/media/sound1.5c555b61.mp3": "/Color-Shades-Generator/static/media/sound1.5c555b61.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4c92d66.js",
+    "static/js/2.bdd9080d.chunk.js",
+    "static/css/main.e8e0fb44.chunk.css",
+    "static/js/main.5638c1e8.chunk.js"
+  ]
+}
